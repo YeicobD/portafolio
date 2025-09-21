@@ -8,7 +8,7 @@
 
 ## 📌 Demo
 
-👉 [Ver portafolio en línea](https://yeicobd.github.io/portafolio/) *(si está desplegado en GitHub Pages)*  
+👉 [Ver portafolio en línea](https://yeicobd.github.io/portafolio/) 
 
 ---
 
